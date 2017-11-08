@@ -19,6 +19,7 @@ export {
   debug,
   makeDebugger,
 } from './debug'
+export ElementType from './ElementType'
 export eventStack from './eventStack'
 
 export * from './factories'
